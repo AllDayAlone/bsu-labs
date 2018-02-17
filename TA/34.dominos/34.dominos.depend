@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1518896128 source:d:\studing\bsu-labs\ta\34.dominos\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<algorithm>
+

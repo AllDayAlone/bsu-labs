@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519635344 source:d:\studing\bsu-labs\binom-heap\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

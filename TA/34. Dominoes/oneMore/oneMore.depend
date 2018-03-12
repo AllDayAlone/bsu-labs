@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1520069116 source:d:\studing\bsu-labs\onemore\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<algorithm>
+	<ctime>
+

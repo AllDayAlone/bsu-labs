@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1519343065 source:d:\studing\bsu-labs\domino final pls\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<algorithm>
+	<ctime>
+

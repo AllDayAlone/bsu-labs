@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519936210 source:d:\studing\bsu-labs\dominoshki\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<algorithm>
+	<ctime>
+	<vector>
+

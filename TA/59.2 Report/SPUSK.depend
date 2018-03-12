@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1520692477 source:d:\studing\bsu-labs\spusk\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+

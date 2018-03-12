@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519030590 source:d:\studing\bsu-labs\[0.3] multiply matrix\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

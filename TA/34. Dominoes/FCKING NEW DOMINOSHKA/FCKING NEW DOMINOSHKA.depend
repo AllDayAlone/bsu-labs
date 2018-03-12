@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1519938703 source:d:\studing\bsu-labs\fcking new dominoshka\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<algorithm>
+	<ctime>
+
